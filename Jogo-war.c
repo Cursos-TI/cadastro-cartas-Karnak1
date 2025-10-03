@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-struct território {
+struct territorios {
 
 char nome[30];
 char cor[10];
